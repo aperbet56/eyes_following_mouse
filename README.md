@@ -6,7 +6,7 @@ Construction d'un mini projet qui permet aux yeux de suivre les mouvements de la
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/eyes_following_mouse/
 
 ## Développez avec
 
