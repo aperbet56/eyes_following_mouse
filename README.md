@@ -1,5 +1,7 @@
 ## YEUX QUI SUIVENT LES MOUVEMENTS DE LA SOURIS (EYES FOLLOWING MOUSE)
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Construction d'un mini projet qui permet aux yeux de suivre les mouvements de la souris.
@@ -8,7 +10,7 @@ Construction d'un mini projet qui permet aux yeux de suivre les mouvements de la
 
 Lien vers le projet : https://aperbet56.github.io/eyes_following_mouse/
 
-## Développez avec
+## Projet développé avec
 
 - Utilisation des balises sémantiques HTML5
 - CSS
